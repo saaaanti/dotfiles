@@ -1,0 +1,47 @@
+{
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "onFocusChange",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontWeight": "500",
+  "editor.fontLigatures": "'cv25', 'ss07', 'ss10', 'cv26', 'cv32', 'cv27', 'cv28', 'ss06', 'cv12', 'cv14', 'onum', 'cv17', 'ss04', 'cv18', 'cv16', 'cv31', 'cv29', 'cv30', 'ss09'",
+  // 0 3 ~ @ $ % & * () {} | >>= .- :- [] \\
+  "editor.fontSize": 16,
+  "git.autofetch": true,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "svelte.enable-ts-plugin": true,
+  "svg.preview.mode": "svg",
+  "explorer.confirmDragAndDrop": false,
+  "vscode_vibrancy.opacity": -1,
+  "vscode_vibrancy.refreshInterval": 123,
+  "workbench.sideBar.location": "right",
+  "window.menuBarVisibility": "toggle",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "black-formatter.showNotifications": "always",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.external.linuxExec": "gnome-terminal",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.defaultProfile.linux": "fish",
+  "terminal.integrated.enableBell": true,
+  "terminal.integrated.gpuAcceleration": "on",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "window.zoomLevel": 1
+}
