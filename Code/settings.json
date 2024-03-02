@@ -16,7 +16,6 @@
   "vscode_vibrancy.opacity": -1,
   "vscode_vibrancy.refreshInterval": 123,
   "workbench.sideBar.location": "right",
-  "window.menuBarVisibility": "toggle",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "black-formatter.showNotifications": "always",
@@ -43,5 +42,13 @@
   "terminal.integrated.enableBell": true,
   "terminal.integrated.gpuAcceleration": "on",
   "material-icon-theme.hidesExplorerArrows": true,
+  "window.menuBarVisibility": "compact",
+  "window.titleBarStyle": "custom",
+  "catppuccin.accentColor": "teal",
+  "workbench.startupEditor": "none",
+  "redhat.telemetry.enabled": false,
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
   "window.zoomLevel": 1
 }
